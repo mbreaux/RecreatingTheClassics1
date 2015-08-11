@@ -1,0 +1,14 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: Pong.png (2048 x 2048)
+# $TexturePacker:SmartUpdate:4b06f3d7dbde0e13af4c63d7d9c73d82:8649ade5e427bce5633c7b86511ce2af:5fb729058f0cdb23ab570282b13ec591$
+#
+
+Background;2;966;1920;1080;0.5;0.5
+Ball;1988;2012;34;34;0.5;0.5
+BluePaddle;1924;1842;62;204;0.5;0.5
+RedPaddle;1924;1636;62;204;0.5;0.5

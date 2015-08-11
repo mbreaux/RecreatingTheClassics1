@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r"
-   sodipodi:docname="Level.svg">
+   sodipodi:docname="Level.svg"
+   inkscape:export-filename="D:\GitWorkspace\RecreatingTheClassics1\Assets\Inkscape\Level.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4">
     <linearGradient
@@ -47,19 +50,20 @@
          offset="0"
          id="stop2990" />
       <stop
-         style="stop-color:#a4dc7f;stop-opacity:0.63300973;"
+         style="stop-color:#a4dc7f;stop-opacity:0.80582523;"
          offset="1"
          id="stop2992" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2988"
-       id="linearGradient3823"
+       id="linearGradient2998"
+       gradientUnits="userSpaceOnUse"
        x1="55"
        y1="535"
        x2="1875"
        y2="535"
-       gradientUnits="userSpaceOnUse" />
+       gradientTransform="matrix(1.0549451,0,0,1.1020408,-58.021978,-49.59184)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -68,9 +72,9 @@
      borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="806.35379"
-     inkscape:cy="520"
+     inkscape:zoom="0.7"
+     inkscape:cx="950.51026"
+     inkscape:cy="534.82127"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -80,7 +84,12 @@
      inkscape:window-height="1018"
      inkscape:window-x="1672"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3783" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -104,25 +113,67 @@
      inkscape:label="Border"
      style="display:inline">
     <g
-       id="g3845"
-       inkscape:export-filename="D:\GitWorkspace\RecreatingTheClassics1\Sprites\Background.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       id="g3773"
+       inkscape:export-filename="D:\GitWorkspace\RecreatingTheClassics1\Assets\Inkscape\Background.png"
+       inkscape:export-xdpi="88.547272"
+       inkscape:export-ydpi="88.547272">
       <rect
-         y="2.8421709e-014"
+         y="0"
          x="0"
          height="1080"
          width="1920"
-         id="rect2986-7"
-         style="display:inline;fill:#38661b;fill-opacity:1;stroke:none" />
-      <rect
-         y="45"
-         x="55"
-         height="980"
-         width="1820"
          id="rect2986"
-         style="fill:url(#linearGradient3823);fill-opacity:1.0;stroke:none" />
+         style="fill:url(#linearGradient2998);fill-opacity:1;stroke:none" />
+      <rect
+         ry="3.9400387"
+         rx="13.563302"
+         y="-3.7486939"
+         x="-2.8854821"
+         height="98.704987"
+         width="1929.1014"
+         id="rect3769"
+         style="fill:#ffe680;fill-opacity:1;stroke:#333333;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         style="fill:#ffe680;fill-opacity:1;stroke:#333333;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3771"
+         width="1929.1014"
+         height="98.704987"
+         x="-2.8854821"
+         y="992.26172"
+         rx="13.563302"
+         ry="3.9400387" />
     </g>
+    <path
+       style="fill:#aa0000;fill-opacity:1;stroke:#333333;stroke-width:4.9673295;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:4"
+       d="m 156.35876,318.11285 c 0,0 56.88392,-1.43678 56.95571,50.16314 l 0.48518,99.24591 c 0.0705,50.15261 -56.95573,49.2931 -56.95573,49.2931 z"
+       id="rect3780"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="D:\GitWorkspace\RecreatingTheClassics1\Assets\Inkscape\RedPaddle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path3785"
+       d="m 1629.514,355.2557 c 0,0 -56.8839,-1.43678 -56.9557,50.16314 l -0.4852,99.24591 c -0.071,50.15261 56.9557,49.2931 56.9557,49.2931 z"
+       style="fill:#0044aa;fill-opacity:1;stroke:#333333;stroke-width:4.9673295;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:4"
+       inkscape:export-filename="D:\GitWorkspace\RecreatingTheClassics1\Assets\Inkscape\BluePaddle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#b3b3b3;fill-opacity:1;stroke:#333333;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:4"
+       id="path3789"
+       sodipodi:cx="278.57144"
+       sodipodi:cy="368.57144"
+       sodipodi:rx="15.714286"
+       sodipodi:ry="15.714286"
+       d="m 294.28573,368.57144 a 15.714286,15.714286 0 1 1 -31.42857,0 15.714286,15.714286 0 1 1 31.42857,0 z"
+       transform="translate(437.14285,64.285714)"
+       inkscape:export-filename="D:\GitWorkspace\RecreatingTheClassics1\Assets\Inkscape\Ball.png"
+       inkscape:export-xdpi="88.856621"
+       inkscape:export-ydpi="88.856621" />
   </g>
   <g
      inkscape:label="Layer 1"
